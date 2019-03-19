@@ -3,8 +3,10 @@
 
 Devices repository: https://github.com/ctosp-Devices
 
-Before pull request for manitainership
+Before making Pull request for Maintainerhship,
 
-1. make sure your device tree is stable 
-2. test the rom unofficially if any major bugs clear them
-3. attach a changelog.txt file when you are ready to release your build
+1. Make sure your Device tree is stable.
+2. Build a ROM under UNOFFICIAL tag, do test and make sure it has no bugs!
+3. Also attach a changelog.txt file when you are ready to release your build.
+
+Good Luck :-)
