@@ -9,6 +9,18 @@
             "version_name":"Pie",
             "maintainer_name":"vamsee krishnaa",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8072879" 
-            "xda_thread"
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-ctosp-t3922616#post79379836"
+         },
+         {
+      "name":"Mi Max",
+      "brand":"xiaomi",
+      "codename":"helium",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"vamsee krishnaa",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8072879" 
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-ctosp-t3922616#post79379836"
          },
      ]    
