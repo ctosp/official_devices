@@ -35,4 +35,16 @@
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8985312",
             "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-ctosp-t3927537/post79467923#post79467923"
          },
+         {
+      "name":"Moto G5S Plus",
+      "brand":"motorola",
+      "codename":"sanders",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Melvin Stark",
+            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9270690",
+            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-ctosp-t3928351#post79485213"
+         },
      ]    
