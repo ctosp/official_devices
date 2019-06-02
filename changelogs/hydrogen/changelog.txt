@@ -1,0 +1,8 @@
+* frameworks/base/                                          f85464e52bc rebranded CTOSP
+869e421af65 Update KeyguardStatusView.java
+da0e37c8662 Update clock_shishu_nerves_bg.xml                  e649d0f618f added nerves
+74fd8c99c5e Delete bootleg_theme_nerves_bg02.png
+856e8403dab Delete bootleg_theme_nerves_bg01.png               271f21b32c0 Rename bootleg_dimens.xml to ctosp_dimens.xml
+375ceaca067 Rename bootleg_colors.xml to ctosp_colors.xml
+2ad3ca2fa50 Update and rename bootleg_symbols.xml to ctosp_sym$90ace921844 Update and rename bootleg_colors.xml to ctosp_colo$03df9a10cd3 Update ctosp_colors.xml                            64af4d023ea Rename clock_bootleg_qsgradient.xml to clock_ctosp$b74a61f3ab9 Rename clock_bootleg_gradient_shishu.xml to clock_$e398996a3b6 Rename clock_bootleg_gradient_shadow.xml to clock_$2ac06a48276 Rename clock_bootleg_gradient.xml to clock_ctosp_g$612174094a9 Rename bootleg_colors.xml to ctosp_colors.xml      2bfa0c0c258 Rename bootleg_attrs.xml to ctosp_attrs.xml
+de3b8049847 ctosp: ls Q settings                               ad53e007d56 CustomTextClock: Set Text color based on wallpaper cebbf8c75d5 CustomTextClock: Match Android Q
