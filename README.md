@@ -1,11 +1,7 @@
-Updater
-=======
-Simple application to download and apply OTA packages.
-
 Uploading
 ----------
 
-Get your devices.jason as format in shown server requirements and Pull Request at this link: https://github.com/ctosp/official_devices as below example 
+Get your devices.jason format as shown in server requirements and Pull Request at this link: https://github.com/ctosp/official_devices as below example 
 
 Example:
 ctosp/official_devices/master/whyred/devices.json
