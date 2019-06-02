@@ -25,7 +25,7 @@ a JSON with the following structure:
       "id": "6f8334dee9387bfaa23d12e33cf458f0",
       "romtype": "OFFICIAL",
       "size": 719282414,
-      "url": "https://master.dl.sourceforge.net/project/ctosp/whyred/CTOSP-2.0-whyred-20190523-OFFICIAL.zip",
+      "url": "https://master.dl.sourceforge.net/project/ctosp/whyred/CTOSP-2.0-whyred-9.0-20190523-OFFICIAL.zip",
       "version": "v2.0"
     }
   ]
