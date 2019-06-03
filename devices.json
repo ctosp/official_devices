@@ -1,50 +1,30 @@
 [
    {
       "name":"Mi Max",
-      "brand":"xiaomi",
+      "brand":"Xiaomi",
       "codename":"hydrogen",
       "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"vamsee krishnaa",
+            "maintainer_name":"Vamsee Krisnaa",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8072879",
-            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-ctosp-t3922616#post79379836"
-         },
-         {
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-ctosp-t3923739"
+         }
+       ]
+     },
+     {
       "name":"Mi Max",
-      "brand":"xiaomi",
+      "brand":"Xiaomi",
       "codename":"helium",
       "supported_versions":[
          {
             "version_code":"pie",
             "version_name":"Pie",
-            "maintainer_name":"vamsee krishnaa",
+            "maintainer_name":"Vamsee Krisnaa",
             "maintainer_url":"https://forum.xda-developers.com/member.php?u=8072879",
-            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-ctosp-t3922616#post79379836"
-         },
-         {
-      "name":"Redmi Note 5 Pro",
-      "brand":"xiaomi",
-      "codename":"whyred",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Ouroboros420",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=8985312",
-            "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-ctosp-t3927537/post79467923#post79467923"
-         },
-         {
-      "name":"Moto G5S Plus",
-      "brand":"motorola",
-      "codename":"sanders",
-      "supported_versions":[
-         {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Melvin Stark",
-            "maintainer_url":"https://forum.xda-developers.com/member.php?u=9270690",
-            "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-ctosp-t3928351#post79485213"
-         },
-     ]    
+            "xda_thread":"https://forum.xda-developers.com/mi-max/development/rom-ctosp-t3923739"
+         }
+      ]
+   }
+]
